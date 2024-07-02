@@ -1,0 +1,2 @@
+Posição	Organismo 1	Mutacao
+305	E	G
